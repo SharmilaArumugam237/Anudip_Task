@@ -7,5 +7,12 @@ This repository is about the task completed during my Anudip training program
          - for, while and do..while loop
          - break statement
 OOPS Concept->
+         -Inheritance
+         -Abstraction
+         -Polymorphism
+         -Encapsulation
+   -> Arrays
+   -> MultiThreading
+         
          - Class and Object
          - Constructor
